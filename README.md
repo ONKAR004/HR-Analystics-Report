@@ -19,21 +19,21 @@ Job satisfaction and work-life balance metrics
 # Visualizations->
 The Power BI dashboard provides:
 
-# Attrition Overview:
+ Attrition Overview:
 Percentage of employees leaving the organization.
 Comparison by department, job role, and satisfaction level.
 Attrition data on Salary, Year at company, Jobrole, etc.
 
-# Performance Insights:
+ Performance Insights:
 Average performance scores by department.
 Employee productivity trends.
 
-# Workforce Composition:
+ Workforce Composition:
 Gender, age group, and educational background distributions.
 Key Metrics:
 Correlation between job satisfaction and attrition.
 
-# Skills & Learnings->
+ Skills & Learnings->
 This project helped refine the following skills:
 
 Data Visualization: Leveraging Power BI to create impactful dashboards.
